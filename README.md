@@ -1,6 +1,6 @@
-<h3 align="center">Hello</h3>
-<h3>I’m Gabriel
-<h2>I’m currently learning Python</h2></h3>
+<h3 align="center">Hello 👋</h3>
+<h3>-😏I’ve 16 years and love programming 
+<h2>-💻I’m currently learning Python</h2>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
