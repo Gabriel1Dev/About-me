@@ -1,4 +1,4 @@
-### Hi there 👋
+<b>### Hi there 👋</b>
 
 -I’m currently learning Python
 
