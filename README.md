@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>### Hi there 👋</h1>
 
-<h1>-I’m currently learning Python</h1>
+-I’m currently learning Python
 
 ### Languages and Tools
 
