@@ -1,4 +1,4 @@
-<h3 align="center">I'm Gabriel</h3><h2>I’m currently learning Python</h2>
+<h3 align="center">Hello</h3><h3>I’m Gabriel</h3><h2>I’m currently learning Python</h2>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
